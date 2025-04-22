@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Lages 👨‍💻</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Back-End| Engenheiro de Software</strong><br>
+  <strong>Desenvolvedor Back-End | Engenheiro de Software</strong><br>
   Teresina - PI, Brasil
 </p>
 
@@ -20,7 +20,7 @@ Atuação com APIs REST, versionamento com Git, metodologias ágeis (Scrum/Kanba
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Frameworks
 
