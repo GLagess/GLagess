@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Lages 👨‍💻</h1>
 
 <p align="center">
-  <strong>Back-End Developer | Engenheiro de Software</strong><br>
+  <strong>Desenvolvedor Back-End| Engenheiro de Software</strong><br>
   Teresina - PI, Brasil
 </p>
 
