@@ -10,7 +10,7 @@
 ### 👨‍💼 Sobre
 
 Desenvolvedor com foco em back-end, experiência com Python (Django), Flutter e bancos de dados relacionais (MySQL e PostgreSQL).  
-Atuação com APIs REST, versionamento com Git, metodologias ágeis (Scrum/Kanban) e participação em projetos públicos e hackathons.
+Atuo com APIs REST, versionamento com Git, metodologias ágeis (Scrum/Kanban) e participação em projetos públicos e hackathons.
 
 ---
 
