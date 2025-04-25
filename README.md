@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Lages 👨‍💻</h1>
+<h1 align="center">Gabriel Lages </h1>
 
 <p align="center">
   <strong>Desenvolvedor Back-End | Engenheiro de Software</strong><br>
