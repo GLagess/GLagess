@@ -40,14 +40,7 @@ Atuação com APIs REST, versionamento com Git, metodologias ágeis (Scrum/Kanba
 
 ---
 
-### 📈 GitHub Stats
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GLagess&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLagess&layout=compact&theme=github_dark" />
-</div>
-
----
 
 ### 📬 Contato
 
