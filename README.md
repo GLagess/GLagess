@@ -1,7 +1,7 @@
-<h1 align="center">Gabriel Lages </h1>
+<h1 align="center">Gabriel Lages</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Back-End | Engenheiro de Software</strong><br>
+  <strong>Desenvolvedor Full-Stack | Engenheiro de Software</strong><br>
   Teresina - PI, Brasil
 </p>
 
@@ -9,7 +9,8 @@
 
 ### 👨‍💼 Sobre
 
-Desenvolvedor com foco em back-end, experiência com Python (Django), Flutter e bancos de dados relacionais (MySQL e PostgreSQL).  
+Desenvolvedor Full-Stack com experiência em Java (Spring Boot) para o back-end e Angular para o front-end. 
+Possuo conhecimentos em Python (Django), desenvolvimento mobile com Flutter e bancos de dados relacionais (MySQL e PostgreSQL). 
 Atuação com APIs REST, versionamento com Git, metodologias ágeis (Scrum/Kanban) e participação em projetos públicos e hackathons.
 
 ---
@@ -18,12 +19,14 @@ Atuação com APIs REST, versionamento com Git, metodologias ágeis (Scrum/Kanba
 
 #### Linguagens
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 #### Frameworks
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
@@ -39,8 +42,6 @@ Atuação com APIs REST, versionamento com Git, metodologias ágeis (Scrum/Kanba
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-
 
 ### 📬 Contato
 
